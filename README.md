@@ -1,8 +1,10 @@
 This repository contains gt files which were automatically generated with GTMake (https://github.com/UB-Mannheim/GTMake).
 
-Settings
---------image-extension -> jpg 
-autocontraxt -> False 
+### Settings
+
+```
+image-extension -> jpg 
+autocontrast -> False 
 psm -> 3 
 lang -> eng 
 level -> 2 
@@ -15,6 +17,10 @@ min-conf -> 0
 max-conf -> 100 
 mod-line -> 0 
 num -> 100 
+```
 
-Processed files
----------------max/103356.jpg
+### Processed files
+
+```
+103356.jpg
+```
